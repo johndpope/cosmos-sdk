@@ -99,7 +99,7 @@ imports:
   - certifiers/files
   - proofs
 - name: github.com/tendermint/tendermint
-  version: 36b543de49f7e60c61c6a290bae6da1d04055d3c
+  version: 0673f27d872effcc10c67f5c0e4b9755c49866c8
   subpackages:
   - config
   - consensus/types
